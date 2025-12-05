@@ -1,0 +1,19 @@
+- HomePage
+- Manufacturers
+- Favorites cars
+- Rechercher voitures
+- Trier voitures avec un bouton de filtres
+---
+--- Legendary Motorsport
+-- Homepage
+- Header : Favoris, Garage, Profil
+- Afficher tous les véhicules (sportives, supersportives, compactes, musclecars)
+- Barre de recherche
+- 3 boutons pour filtrer les véhicules par catégorie (sportives, supersportives, compactes)
+
+-- Vehicle card
+- Vehicule, Image, Prix, Vitesse max, bouton favoris, bouton ajouter a un garage
+- Mettre 3 boutons avec ces filtres : (sportives, supersportives, compactes)
+
+
+
